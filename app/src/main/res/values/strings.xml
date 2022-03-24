@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MySizeApp</string>
+    <string name="description_Image">体の部位を示すための画像</string>
+    <string name="neck">首回り</string>
+    <string name="sleeve">裄丈</string>
+    <string name="waist">胴回り</string>
+    <string name="Inseam">股下</string>
+    <string name="button">保存</string>
 </resources>
